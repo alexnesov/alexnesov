@@ -2,6 +2,7 @@
 
 I'm Alex Nesovic, I am working for the Capital Markets division of a major consulting firm as a Financial Software Engineer.
 I have both knowledge in finance and in tech.
+Currently preparing a certification in quantitative finance (CQF).
 
 The main side project I am working on is https://www.getthesignals.com/
 
