@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Languages:<hr>
+## Languages:
 
 
 
@@ -31,7 +31,7 @@ https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoC
   
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
-<a href="https://github.com/livinglist?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexnesov&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&hide=ruby,html" alt="top langs" height="156"/></a>
+<a href="https://github.com/alexnesov?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexnesov&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&hide=ruby,html" alt="top langs" height="156"/></a>
   
 ## Gallery
 
