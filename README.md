@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Alex Nesovic, a Financial Software Engineer.
+
+
 ## Languages:
 
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,7 +25,15 @@
 - <img alt="MS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 - <img alt="Ubuntu" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-[linkedin]: https://www.linkedin.com/in/alexandre-nesovic-627004144
+<br>
+
+## How to reach me: 
+
+<br>
+<a href="https://www.linkedin.com/in/alexandre-nesovic-627004144">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+or: alexnesovic@getthesignals.com
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
