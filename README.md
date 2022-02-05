@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Languages:
+<hr>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/#3776AB.svg" />
+
 <!--
 **alexnesov/alexnesov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
