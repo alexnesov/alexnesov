@@ -1,31 +1,33 @@
-### Hi there 👋
+### Hi there 
 
-I'm Alex Nesovic, I am working for the Capital Market divisio of a major consulting firm as a Financial Software Engineer.
+I'm Alex Nesovic, I am working for the Capital Markets division of a major consulting firm as a Financial Software Engineer.
 I have both knowledge in finance and in tech.
 
-Tha main side project I am working on is https://www.getthesignals.com/
+The main side project I am working on is https://www.getthesignals.com/
 
 The full and expanded version of this project is private.
 Please contact me at alexnesovic@getthesignals.com for further information, to go over the code or simply to have a demo.
 
 This project gives a good overview of my capabilities and interests.
 
-GTS is:
+<b>GTS is: </b>
 1. A stock market data platform
 2. An investment advisor
 
-Development performed on GTS:
+<b>Development performed on GTS: </b>
 - Deployed the app (Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
 - Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
 - Implemented the entire cloud back-end infrastructure (RDS MySQL)
 - Coded the automated technical analysis algorithms (Python)
 - Coded the front-end (JS, HTML, CSS, Bootstrap)
 - Coded the middleware (AJAX calls <-> Flask API)
+- The app integrates a user authentication procedure
 
-- Deployment with AWS Beanstalk (Dockerized). 
+
+<b>Infra: </b>
+- Deployment with AWS Beanstalk (Dockerized)
 - Storage: AWS RDS MySQL 
-- Connects to different market data API's. 
-- The app integrates a user authentication procedure.
+- Connects to different market data API's
 
 
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/signal_flow_na2.png">
