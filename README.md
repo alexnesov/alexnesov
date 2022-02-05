@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Alex Nesovic, a Financial Software Engineer.
+I'm Alex Nesovic, I am working for the Capital Market divisio of a major consulting firm as a Financial Software Engineer.
+I have both knowledge in finance and in tech.
+
 
 
 ## Languages:
@@ -39,6 +41,10 @@ or: alexnesovic@getthesignals.com
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
 
 ## Gallery
+
+
+<img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/signal_flow_na2.png">
+
 
 <!--
 **alexnesov/alexnesov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
