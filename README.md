@@ -3,6 +3,33 @@
 I'm Alex Nesovic, I am working for the Capital Market divisio of a major consulting firm as a Financial Software Engineer.
 I have both knowledge in finance and in tech.
 
+Tha main side project I am working on is https://www.getthesignals.com/
+
+The full and expanded version of this project is private.
+Please contact me at alexnesovic@getthesignals.com for further information, to go over the code or simply to have a demo.
+
+This project gives a good overview of my capabilities and interests.
+
+GTS is:
+1. A stock market data platform
+2. An investment advisor
+
+Development performed on GTS:
+- Deployed the app (Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
+- Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
+- Implemented the entire cloud back-end infrastructure (RDS MySQL)
+- Coded the automated technical analysis algorithms (Python)
+- Coded the front-end (JS, HTML, CSS, Bootstrap)
+- Coded the middleware (AJAX calls <-> Flask API)
+
+- Deployment with AWS Beanstalk (Dockerized). 
+- Storage: AWS RDS MySQL 
+- Connects to different market data API's. 
+- The app integrates a user authentication procedure.
+
+
+<img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/signal_flow_na2.png">
+<img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
 
 
 ## Languages:
@@ -40,10 +67,8 @@ or: alexnesovic@getthesignals.com
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
 
-## Gallery
 
 
-<img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/signal_flow_na2.png">
 
 
 <!--
