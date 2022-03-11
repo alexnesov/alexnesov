@@ -23,10 +23,6 @@ This project gives an overview of my capabilities and interests.
 - Coded the front-end (JS, HTML, CSS, Bootstrap)
 - Coded the middleware (AJAX calls <-> Flask API)
 - The app integrates a user authentication procedure
-
-
-<b>Infra: </b>
-- Deployment with AWS Beanstalk (Dockerized)
 - Storage: AWS RDS MySQL 
 - Connects to different market data API's
 
