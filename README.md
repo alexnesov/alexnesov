@@ -16,7 +16,7 @@ This project gives an overview of my capabilities and interests.
 2. An investment advisor
 
 <b>Development performed on GTS: </b>
-- Deployed the app (Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
+- Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
 - Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
 - Implemented the entire cloud back-end infrastructure (RDS MySQL)
 - Coded the automated technical analysis algorithms (Python)
