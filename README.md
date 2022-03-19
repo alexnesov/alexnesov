@@ -12,8 +12,8 @@ Please contact me at alexnesovic@getthesignals.com for further information, to g
 This project gives an overview of my capabilities and interests.
 
 <b>GTS is: </b>
-1. A stock market data platform
-2. An investment advisor
+1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
+2. An autonomous technical signals detector
 
 <b>Development performed on GTS: </b>
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
