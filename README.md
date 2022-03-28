@@ -6,9 +6,6 @@ Currently preparing a certification in quantitative finance (CQF).
 
 The main side project I am working on is https://www.getthesignals.com/
 
-The full and expanded version of this project is private.
-Please contact me at alexnesovic@getthesignals.com for further information, to go over the code or simply to get a demo.
-
 This project gives an overview of my capabilities and interests.
 
 <b>GTS is: </b>
