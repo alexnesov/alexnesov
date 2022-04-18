@@ -4,15 +4,15 @@ I'm Alex Nesovic, I am working for the Capital Markets division of a major consu
 I have both knowledge in finance and in tech.
 Currently preparing a certification in quantitative finance (CQF).
 
-The main side project I am working on is https://www.getthesignals.com/
+The main side project I am working on is https://www.financial-portfolio.io/
 
 This project gives an overview of my capabilities and interests.
 
-<b>GTS is: </b>
+<b>FP is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous technical signals detector
 
-<b>Development performed on GTS: </b>
+<b>Development performed on FP: </b>
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
 - Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
 - Implemented the entire cloud back-end infrastructure (RDS MySQL)
