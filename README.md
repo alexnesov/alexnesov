@@ -46,12 +46,12 @@ This project gives an overview of my capabilities and interests.
 - Usage of JSON, AJAX, JQuery, REST
 - <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<b>cloud: </b>
+<b>Cloud: </b>
 
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 (Usage of EC2, S3, Beanstalk, Route 53) 
 - <img alt="aws" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-(Azure basics certification + experience with Databricks)
+(Microsoft Azure certified + experience with Databricks)
 
 <b>OS': </b>
 - <img alt="MS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
