@@ -43,8 +43,9 @@ This project gives an overview of my capabilities and interests.
 
 <b>Web: </b>
 - <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-- Usage of JSON, AJAX, JQuery, REST
+- <img alt="Django" src="	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 - <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+- Usage of JSON, AJAX, JQuery, REST
 
 <b>Cloud: </b>
 
