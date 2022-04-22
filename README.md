@@ -50,15 +50,21 @@ This project gives an overview of my capabilities and interests.
 
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 (Usage of EC2, S3, Beanstalk, Route 53) 
-- <img alt="aws" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+- <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 (Microsoft Azure certified + experience with Databricks)
+
+<b>DevOps: </b>
+- <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+- <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+
+<b>Other stuff: </b>
+
+- Cron, SSH, Git, daily usage of linux command line
 
 <b>OS': </b>
 - <img alt="MS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 - <img alt="Ubuntu" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-<b>Other stuff: </b>
-- Cron, SSH, Jenkins, Git, Docker, daily usage of linux command line
 
 <br>
 
@@ -71,6 +77,8 @@ This project gives an overview of my capabilities and interests.
 or: alexnesovic@getthesignals.com
 
 ## Stat
-<img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156">
+  
+https://github-readme-stats.vercel.app/api/top-langs/?username=alexnesov
 
 
