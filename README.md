@@ -49,10 +49,9 @@ This project gives an overview of my capabilities and interests.
 <b>cloud: </b>
 
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-- Usage of EC2, S3, Beanstalk, Route 53 
-- <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-- Azure basics certification + experience with Databricks
+(Usage of EC2, S3, Beanstalk, Route 53) 
 - <img alt="aws" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+(Azure basics certification + experience with Databricks)
 
 <b>OS': </b>
 - <img alt="MS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
