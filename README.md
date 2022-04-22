@@ -79,6 +79,9 @@ or: alexnesovic@getthesignals.com
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156">
   
-https://github-readme-stats.vercel.app/api/top-langs/?username=alexnesov
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnesov" height="156">
+   
+
 
 
