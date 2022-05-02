@@ -29,7 +29,7 @@ This project gives an overview of my capabilities and interests.
 
 ## Languages:
 
-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (my strong spot, using it daily, professional (Accenture, Deloitte, Axa, Clearstream) and personnal context, everyday since 4 years almost)
+- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (my strong point, using it daily in a professional (Accenture, Deloitte, Axa, Clearstream) and personnal context, since 4 years almost)
 - <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 - <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> (not as strong as Python, but starting to have some nice automatisms)
