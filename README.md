@@ -8,7 +8,7 @@ The main side project I am working on is https://www.financial-portfolio.io/
 
 This project gives an overview of my capabilities and interests.
 
-<b>FP (AWS cloud-native) is: </b>
+<b>Financial-portfolio.io (AWS cloud-native) is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous technical signals detector
 
