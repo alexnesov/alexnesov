@@ -54,7 +54,7 @@ This project gives an overview of my capabilities and interests.
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 (Daily usage of EC2, Lambda, S3, Beanstalk, Route 53, familiar with IAM) 
 - <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-(Microsoft Azure certified + experience with Databricks)
+(Microsoft Azure certified + experience with Databricks --> used py Koalas in the context of a Spark cluster)
 
 <b>DevOps: </b>
 - <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
