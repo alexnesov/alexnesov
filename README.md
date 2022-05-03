@@ -58,7 +58,7 @@ This project gives an overview of my capabilities and interests.
 
 <b>DevOps: </b>
 - <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-- <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+- <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> (using it as a nice Linux Cron, to orchestrate my autonomous python jobs on EC2)
 
 <b>Other stuff: </b>
 
