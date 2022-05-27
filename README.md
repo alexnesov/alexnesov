@@ -53,7 +53,7 @@ Code: https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
 <b>Cloud: </b>
 
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-(Daily usage of EC2, Lambda, S3, Beanstalk, Route 53, familiar with IAM, used API Gateway and SES, associated to a static S3 website to allow contact form capabilities also) 
+(Daily usage of EC2, Lambda, S3, Beanstalk, Route 53, familiar with IAM, used API Gateway and SES combined to allow contact form capabilities to a static S3 website also) 
 - <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 (Microsoft Azure certified + experience with Databricks --> used py Koalas in the context of a Spark cluster)
 
