@@ -78,7 +78,7 @@ Code: https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
 <a href="https://www.linkedin.com/in/alexandre-nesovic-627004144">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-or: alexnesovic@getthesignals.com
+or: alex@financial-portfolio.io
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156">
