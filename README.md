@@ -8,11 +8,16 @@ The main side project I am working on is https://www.financial-portfolio.io/
 
 This project gives an overview of my capabilities and interests.
 
+<b>Development performed on FP: </b>
+
+2nd Phase:
+•Currently migrating the project from Flask/Vanilla JS to a Django/React stack
+
+1st Phase:
 <b>Financial-portfolio.io (AWS cloud-native) is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous technical signals detector
 
-<b>Development performed on FP: </b>
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
 - Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
 - Coded the automated technical analysis algorithms (Python)
@@ -22,7 +27,7 @@ This project gives an overview of my capabilities and interests.
 - Storage: AWS RDS MySQL 
 - Connects to different market data API's
 
-Code: https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
+Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
 
 <img src="https://github.com/alexnesov/Financial-portfolio-advanced/blob/main/SV/static/hexagon_aws.png">
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
