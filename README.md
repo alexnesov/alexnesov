@@ -15,7 +15,7 @@ This project gives an overview of my capabilities and interests.
 <b>Development performed on FP: </b>
 
 <b>Second Phase:</b> <br>
-- Currently migrating the project from Flask/Vanilla JS to a Django/React stack
+- Currently migrating the project from Flask/JS (+AJAX, Jquery) to a Django/React tech stack
 
 <b>First Phase:</b> <br>
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
