@@ -14,7 +14,7 @@ This project gives an overview of my capabilities and interests.
 
 <b>Development performed on FP: </b>
 
-<b>Second Phase:</b> <br>
+<b>Second Phase:</b> <br> (**!! The code of this commercial and extended version is private, let's get in touch if you'd like to know more**)
 - Currently migrating the project from Flask/JS (+AJAX, Jquery) to a Django/React tech stack
 - Setting up Redux to manage the global state
 
