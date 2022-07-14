@@ -23,9 +23,9 @@ This project gives an overview of my capabilities and interests.
 - Coded the automated technical analysis algorithms (Python)
 - Coded the front-end (JS, HTML, CSS, Bootstrap)
 - Coded the middleware (AJAX calls <-> Flask API)
-- The app integrates a user authentication procedure
-- Storage: AWS RDS MySQL 
-- Connects to different market data API's
+- User authentication procedure developement
+- AWS RDS MySQL setup 
+- Connection to different market data API's
 
 Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
 
