@@ -8,16 +8,16 @@ The main side project I am working on is https://www.financial-portfolio.io/
 
 This project gives an overview of my capabilities and interests.
 
+<b>Financial-portfolio.io (AWS cloud-native) is: </b>
+1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
+2. An autonomous signals detector
+
 <b>Development performed on FP: </b>
 
 <b>Second Phase:</b> <br>
 - Currently migrating the project from Flask/Vanilla JS to a Django/React stack
 
 <b>First Phase:</b> <br>
-<b>Financial-portfolio.io (AWS cloud-native) is: </b>
-1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
-2. An autonomous technical signals detector
-
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
 - Implemented the automated & scheduled web crawlers to scan the American stock market on a daily basis (Python Selenium + Jenkins on Linux AWS EC2 VMs)
 - Coded the automated technical analysis algorithms (Python)
