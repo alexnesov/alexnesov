@@ -11,7 +11,7 @@ This project gives an overview of my capabilities and interests.
 <b>Development performed on FP: </b>
 
 <b>Second Phase:</b> <br>
-•Currently migrating the project from Flask/Vanilla JS to a Django/React stack
+- Currently migrating the project from Flask/Vanilla JS to a Django/React stack
 
 <b>1st Phase:</b> <br>
 <b>Financial-portfolio.io (AWS cloud-native) is: </b>
