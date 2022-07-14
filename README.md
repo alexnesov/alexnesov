@@ -16,6 +16,7 @@ This project gives an overview of my capabilities and interests.
 
 <b>Second Phase:</b> <br>
 - Currently migrating the project from Flask/JS (+AJAX, Jquery) to a Django/React tech stack
+- Setting up Redux to manage the global state
 
 <b>First Phase:</b> <br>
 - Deployed the app (Python Flask application) to the web & the cloud (AWS Route 53, Beanstalk & Docker)
