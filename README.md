@@ -10,10 +10,10 @@ This project gives an overview of my capabilities and interests.
 
 <b>Development performed on FP: </b>
 
-2nd Phase:
+<b>Second Phase:</b> <br>
 •Currently migrating the project from Flask/Vanilla JS to a Django/React stack
 
-1st Phase:
+<b>1st Phase:</b> <br>
 <b>Financial-portfolio.io (AWS cloud-native) is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous technical signals detector
