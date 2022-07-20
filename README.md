@@ -42,6 +42,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> (medium level, able to build interesting plain vanilla JS apps, and also with JQuery and AJAX)
 - <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 - <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> (basics, learned it to at least know a faster language and get closer to the machine, also important in quant finance and algo trading, as I am preparing the Certifcate in Quant Finance (CQF))
+- <img alt="cpp" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> (basics)
 - My new thing is to learn Lisp as it's totally different than anything I learned
 
 ## Web, Cloud, frameworks and other stuff:
