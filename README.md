@@ -53,7 +53,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> (using it daily)
 - <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> (new on this, but the overall Web logic is the same as for Flask, it's basically Flask on steroids)
 - <img alt="Django-REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-- <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> (currently learning it, projecting to migrate whole financial-portfolio.io project towards it, with Django on the backend)
+- <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> (relatively new on React, but already migrated a big chunk of financial-portfolio.io project towards it, therefore some nice automatisms start to arise, with Django on the backend)
 - Usage of JSON, AJAX, JQuery, REST
 
 <b>Cloud: </b>
