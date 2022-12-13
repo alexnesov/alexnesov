@@ -1,7 +1,7 @@
 ### Hi there 
 
-I'm Alex Nesovic, I am working for the Capital Markets division of a major consulting firm as a Financial Software Engineer.
-I have both knowledge in finance and in tech.
+I'm Alex Nesovic. Word first in tech consulting at Accenture Technology, then went in the Capital Market divisoin of Deloitte (Alternative Investment) as a Financial Software Engineer.Now, working for Amundi, an asset management company, as a tech support for the front-office and middle-office side of our client's operations.
+I have therefore both knowledge in finance and in tech.
 
 The main side project I am working on is https://www.financial-portfolio.io/
 
