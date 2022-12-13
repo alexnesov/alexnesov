@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Alex Nesovic. Worked first in tech consulting at Accenture Technology, then worked for the Capital Market division of Deloitte Luxemboug (Alternative Investment sub-division) as a Financial Software Engineer (Python, Flask, JS).Now, working for Amundi Asset Management (technology division) as a tech support for the front-office and middle-office side of our client's operations. Job consists mainly implementing client's demands in Amundi's proprietary's Portfolio Management System, through some JEP (a Java's derived language, Python and SQL for Sybase) 
+I'm Alex Nesovic. Worked first in tech consulting at Accenture Technology, then worked for the Capital Market division of Deloitte Luxemboug (Alternative Investment sub-division) as a Financial Software Engineer (Python, Flask, JS).Now, working for Amundi Asset Management (technology division) as a tech support for the front-office and middle-office side of our client's operations. My job consists mainly about implementing our client's (private funds and institutional) demands in Amundi's proprietary's Portfolio Management System, through some JEP (a Java's derived language, Python and SQL for Sybase) 
 I have therefore both knowledge in finance and in tech.
 
 The main side project I am working on is https://www.financial-portfolio.io/
