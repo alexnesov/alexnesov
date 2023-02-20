@@ -41,17 +41,16 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - My new thing is to learn Lisp as it's totally different than anything I learned
 
 
-## Web, Cloud, frameworks and other stuff:
-<b>DBs: </b>
+## DBs: 
 - <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 - <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<b>Web: </b>
+## Web:
 - <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> (using it daily)
 - <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> (new on this, but the overall Web logic is the same as for Flask, it's basically Flask on steroids)
 - <img alt="Django-REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 
-## Front-end scripting:
+## Front-end and Middleware:
 - <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 - <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -59,7 +58,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> 
 - Used AJAX with vanilla JS before, JQuery also, but currently using REST arch with JSON, daily, in the context of React developments
 
-<b>Cloud: </b>
+## Cloud:
 
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 (Daily usage of EC2, Lambda, S3, Beanstalk, Route 53, familiar with IAM, used API Gateway and SES combined to allow contact form capabilities to a static S3 website also) 
