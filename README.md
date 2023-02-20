@@ -40,10 +40,6 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> (basics)
 - My new thing is to learn Lisp as it's totally different than anything I learned
 
-## Front-end scripting:
-- <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 ## Web, Cloud, frameworks and other stuff:
 <b>DBs: </b>
@@ -54,8 +50,14 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> (using it daily)
 - <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> (new on this, but the overall Web logic is the same as for Flask, it's basically Flask on steroids)
 - <img alt="Django-REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+
+## Front-end scripting:
+- <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+- <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 - <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> (relatively new on React, but already migrated a big chunk of financial-portfolio.io project towards it, therefore some nice automatisms start to arise, with Django on the backend)
-- Usage of JSON, AJAX, JQuery, REST
+- <img alt="redux" src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)"/> 
+- Used AJAX with vanilla JS before, JQuery also, but currently using REST arch with JSON, daily, in the context of React developments
 
 <b>Cloud: </b>
 
