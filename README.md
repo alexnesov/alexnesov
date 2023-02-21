@@ -29,7 +29,7 @@ This project gives an overview of my capabilities and interests.
 
 Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
 
-<img src="https://github.com/alexnesov/Financial-portfolio-advanced/blob/main/SV/static/hexagon_aws.png">
+<img src="https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask/blob/main/SV/static/signal_flow_na2.png">
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
 
 
