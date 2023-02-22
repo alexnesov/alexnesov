@@ -72,6 +72,8 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - Beanstalk (for deploying Docker containers)
 - Route 53 (used it to buy several domains and manage HTTP/HTTPS routings)
 - IAM (access control when I was collaborating with other users)
+- EventBridge (implented "rules" to turn ON/OFF my EC2 instance on schedule, to reduce costs)
+
 
 <br>
 
