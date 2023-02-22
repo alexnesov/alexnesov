@@ -67,18 +67,19 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 (Microsoft Azure certified + experience with Databricks --> used py Koalas in the context of a Spark cluster)
 
+## Other stuff
+
+- Cron, SSH, Git, daily usage of linux command line
+
+
 <b>Workflow and agility: </b>
 - <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 - <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> (using it as a nice Linux Cron, to orchestrate my autonomous python jobs on EC2)
 
-<b>Other stuff: </b>
-
-- Cron, SSH, Git, daily usage of linux command line
 
 <b>OS': </b>
 - <img alt="MS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> (the main OS I'm using)
 - <img alt="Ubuntu" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
 
 <br>
 
