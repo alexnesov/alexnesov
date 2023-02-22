@@ -38,7 +38,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> (medium level, able to build interesting plain vanilla JS apps, and also with JQuery and AJAX)
 - <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> (basics)
 - <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> (basics)
-- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> (basics, currently implemented some Neural Network from scratch with it)
+- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> (basics, currently ilmplementing some Neural Network from scratch with it)
 
 
 ## DBs
