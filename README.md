@@ -4,7 +4,7 @@
 
 WebApp currently off the grid but demo available locally if you're interested through a call.
 
-This project gives an overview of my capabilities and interests.
+This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public avilability).
 
 <b>Financial-portfolio.io (AWS cloud-native) is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
