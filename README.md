@@ -62,11 +62,9 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 
 ## Cloud
 
-
-
    
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    - Daily usage of EC2 (SSHing through Tmux through my Linux personal computer)
+- Daily usage of EC2 (SSHing through Tmux through my Linux personal computer)
 - Lambda (used it as Node.js service based to receive user trigger emailing capabilities from a JS static webpage, returns a OK/KO message to static website)
 - Combination of AWS API Gateway service with SES to allow contact form capabilities to a static S3 website
 - RDS (for MySQL community)
@@ -75,6 +73,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - Route 53 (used it to buy several domains and manage HTTP/HTTPS routings)
 - IAM (access control when I was collaborating with other users)
 
+<br>
 
 - <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 (Microsoft Azure certified + experience with Databricks --> used py Koalas in the context of a Spark cluster)
