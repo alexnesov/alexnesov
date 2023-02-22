@@ -68,7 +68,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - Lambda (used it as Node.js service based to receive user trigger emailing capabilities from a JS static webpage, returns a OK/KO message to static website)
 - Combination of AWS API Gateway service with SES to allow contact form capabilities to a static S3 website
 - RDS (for MySQL community)
-- S3
+- S3 (stored a static website on it, and using it to store app uploaded user images instead of storing them on a MySQL "traditional" DB --> would be a bad practice)
 - Beanstalk (for deploying Docker containers)
 - Route 53 (used it to buy several domains and manage HTTP/HTTPS routings)
 - IAM (access control when I was collaborating with other users)
