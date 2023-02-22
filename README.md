@@ -66,7 +66,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 - Daily usage of EC2 (SSHing through Tmux through my Linux personal computer)
 - Lambda (used it as Node.js service based to receive user trigger emailing capabilities from a JS static webpage, returns a OK/KO message to static website)
-- Combination of AWS API Gateway service with SES to allow contact form capabilities to a static S3 website
+- Combination of AWS API Gateway service with SES (AWS email service) to allow contact Form capabilities within an otherwise static S3 website
 - RDS (for MySQL community)
 - S3 (stored a static website on it, and using it to store app uploaded user images instead of storing them on a MySQL "traditional" DB --> would be a bad practice)
 - Beanstalk (for deploying Docker containers)
