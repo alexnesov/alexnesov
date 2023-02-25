@@ -1,6 +1,6 @@
 ### Hi there 
 
-**I'm Alex Nesovic. Worked first in tech consulting at Accenture Technology, then worked for the Capital Market division of Deloitte Luxemboug (Alternative Investments sub-division) as a Senior Consultant (Software Engineer with Python, Flask, JS). Worked also for Amundi Asset Management (technology division) as a tech advisor for the front-office and middle-office side of their client's operations.**
+**I'm Alex Nesovic. Worked first in tech consulting at Accenture Technology, then worked for the Capital Market division of Deloitte Luxemboug (Alternative Investments sub-division) as a Senior Consultant (Software Engineer with Python, Flask, JS). Worked also for Amundi Asset Management (technology division) as a tech consultant for the front-office and middle-office side of their client's operations.**
 
 WebApp currently off the grid but demo available locally if you're interested through a call.
 
