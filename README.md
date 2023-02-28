@@ -59,6 +59,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced
 - <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> (relatively new on React, but already migrated a big chunk of financial-portfolio.io project towards it, therefore some nice automatisms start to arise, with Django on the backend)
 - <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> 
 - Used AJAX with vanilla JS before, JQuery also, but currently using REST arch with JSON, daily, in the context of React developments
+- Learning ThreeJS
 
 ## Cloud
 
