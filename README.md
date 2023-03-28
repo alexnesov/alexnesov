@@ -26,7 +26,7 @@ This project gives an overview of my capabilities (full-stack, from server setup
 - AWS RDS MySQL setup 
 - Connection to different market data API's
 
-Code (first phase): https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask
+Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 
 <img src="https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask/blob/main/SV/static/signal_flow_na2.png">
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
