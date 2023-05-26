@@ -13,7 +13,7 @@ This project gives an overview of my capabilities (full-stack, from server setup
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous signals detector
 
-<b>Development performed on FP: </b>
+<b>Development performed on FP : </b>
 
 <b>Second Phase:</b> <br> (**!! The code of the commercial and extended version is private, let's get in touch if you'd like to know more !!**)
 - Currently migrating the project from Flask/JS (+AJAX, Jquery) to a Django/React tech stack
