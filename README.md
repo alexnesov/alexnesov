@@ -57,12 +57,13 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 
 ### Front-end & Middleware
 - <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+- <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> (hands-on native CSS flexbox usage, after having sweat with float handling)
 - <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 - <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 - <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> 
 - Used AJAX with vanilla JS before, JQuery also, but currently using REST arch with JSON, daily, in the context of React developments
 - Learning ThreeJS
+- Using Electron for Desktop development 
 
 ## Cloud
 
