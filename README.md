@@ -1,10 +1,9 @@
 ### Hi there 
 
 **I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology, then worked for the Capital Markets division of Deloitte Luxemboug (Alternative Investments sub-division) as a Senior Consultant (Software Developer using Python, Flask, JS). Worked also for one fund manager's technology division as a tech consultant for the front-office and middle-office side of their client's operations. <br>
-Other than that, initiated a relatively big side project (project-based.io). It is a technological projects repository meant to bridge the business tech explorers on one side and the developers on the other side.**
 
 
-Another previous side project was financial-project.io <br>
+Side project: financial-project.io <br>
 WebApp currently off the grid but demo available locally if you're interested through a call.
 
 This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public avilability).
