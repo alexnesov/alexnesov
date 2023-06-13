@@ -108,9 +108,6 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 
 or: alex@financial-portfolio.io
 
-## Stat
-<img src="https://github-readme-stats.vercel.app/api?username=alexnesov&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&count_private=true&hide=issues" height="156">
-  
- 
+
 
 
