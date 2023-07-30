@@ -45,6 +45,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 <img src="https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask/blob/main/SV/static/signal_flow_na2.png">
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
 
+# My Skills
 
 ## Languages
 - <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (my strong point, using it daily in a professional (Accenture, Deloitte, Axa, Clearstream) and personnal context, since 4 years almost)
