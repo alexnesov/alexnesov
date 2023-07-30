@@ -2,11 +2,21 @@
 
 I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology, then worked for the Capital Markets division of Deloitte Luxemboug (Alternative Investments sub-division) as a Senior Consultant (Software Developer using Python, Flask, JS). Worked also for one fund manager's technology division as a tech consultant for the front-office and middle-office side of their client's operations. <br>
 
+# Technical Portfolio
+
 Two main side projects: 
 - https://project-based.io/
 - And my older one: financial-project.io  
 
-The latter's "official" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
+## Project-based.io
+
+### Architecture of the app
+
+<img src="https://github.com/alexnesov/project_based_io/blob/main/documentation/diagrams/data_flow.png">
+
+## Financial-portfolio.io
+
+Oofficial" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
 
 This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public avilability).
 
