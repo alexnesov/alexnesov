@@ -4,7 +4,7 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
 
 
 Side project: financial-project.io <br>
-WebApp currently off the grid but demo available locally if you're interested through a call.
+"Official" WebApp currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/ 
 
 This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public avilability).
 
