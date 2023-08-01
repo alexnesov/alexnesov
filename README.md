@@ -6,13 +6,7 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
 
 Two main side projects: 
 - https://project-based.io/
-- And my older one: financial-project.io  
-
-## Project-based.io
-
-### Architecture of the app
-
-<img src="https://github.com/alexnesov/project_based_io/blob/main/documentation/diagrams/data_flow.png">
+- financial-project.io ("officiel" app off the grid: but dev one here:  http://financial-portfolio.eu-central-1.elasticbeanstalk.com/ 
 
 ## Financial-portfolio.io
 
@@ -44,6 +38,13 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 
 <img src="https://github.com/alexnesov/Financial-portfolio-io-advanced-Flask/blob/main/SV/static/signal_flow_na2.png">
 <img src="https://github.com/alexnesov/Get-the-signals/blob/8dab1ac794c2fe0524169f6ca1cd316cad621bf1/SV/static/dash.png">
+
+## Project-based.io
+
+### Architecture of the app
+
+<img src="https://github.com/alexnesov/project_based_io/blob/main/documentation/diagrams/data_flow.png">
+
 
 # My Skills
 
