@@ -90,7 +90,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 - Route 53 (used it to buy several domains and manage HTTP/HTTPS routings)
 - IAM (access control when I was collaborating with other users)
 - EventBridge (implented "rules" to turn ON/OFF my EC2 instance on schedule, to reduce costs)
-
+- AWS CodePipeline (including CodeBuild) for the CI/CD (both of my side projects are wrapped in it)
 
 <br>
 
