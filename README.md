@@ -10,7 +10,7 @@ Two main side projects:
 
 ## Financial-portfolio.io
 
-Oofficial" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
+Official" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
 
 This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public avilability).
 
