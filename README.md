@@ -6,7 +6,10 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
 
 Two main side projects: 
 - https://project-based.io/
-- financial-project.io ("official" app off the grid. But dev one available here:  http://financial-portfolio.eu-central-1.elasticbeanstalk.com/ 
+- https://financial-portfolio.io/
+  
+Deprecated:
+- http://financial-portfolio.eu-central-1.elasticbeanstalk.com/ 
 
 ## Financial-portfolio.io
 
