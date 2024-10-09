@@ -7,7 +7,10 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
 Main side projects: 
 - https://project-based.io/
 - https://financial-portfolio.io/
-  
+- 
+## Financial-portfolio.io (new version)
+
+
 ## Financial-portfolio.io (old version)
 
 "Official" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
