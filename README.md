@@ -7,16 +7,18 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
   
 ## Financial-portfolio.io (new version)
 
-[![financial-portfolio.io](https://github.com/alexnesov/alexnesov/blob/main/vanillaJS/Assets/fp_logo.svg)](https://www.youtube.com/watch?v=HUfxmiZ7kGs)
-  
+<a href="https://www.youtube.com/watch?v=HUfxmiZ7kGs">
+  <img src="https://github.com/alexnesov/alexnesov/blob/main/vanillaJS/Assets/fp_logo.svg" alt="financial-portfolio.io" width="200"/>
+</a>
+
 **[Click here to see demo of parallelization integrated into financial-portfolio.io](https://www.youtube.com/watch?v=HUfxmiZ7kGs)**
 
 
 Please switch to 1440p and above to be able to see the logs.
 
-Tech stack: React, Redux, Django, Docker, Celery, Redis
-Protocols: WebSocket (ensures real-time component updates and avoids waiting for the entire page to load) & HTTPS
-In Production: AWS Beanstalk is provisioned to ensure scalability, thanks to it's auto-scaling capability.
+Tech stack: React, Redux, Django, Docker, Celery, Redis<br>
+Protocols: WebSocket (ensures real-time component updates and avoids waiting for the entire page to load) & HTTPS<br>
+In Production: AWS Beanstalk is provisioned to ensure scalability, thanks to it's auto-scaling capability.<br>
 
 All 4 financial research processes (can scale way up of course) were launched exactly at the same time by a JS command here locally and where handled in parallel (see "About the logs" in the description below).
 
