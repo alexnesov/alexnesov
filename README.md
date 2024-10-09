@@ -7,7 +7,10 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
   
 ## Financial-portfolio.io (new version)
 
-[![financial-portfolio.io](https://img.youtube.com/vi/HUfxmiZ7kGs/maxresdefault.jpg)](https://www.youtube.com/watch?v=HUfxmiZ7kGs)
+[![financial-portfolio.io](https://github.com/alexnesov/alexnesov/blob/main/vanillaJS/Assets/fp_logo.svg)](https://www.youtube.com/watch?v=HUfxmiZ7kGs)
+  
+**[Click here to see demo of parallelization integrated into financial-portfolio.io](https://www.youtube.com/watch?v=HUfxmiZ7kGs)**
+
 
 Please switch to 1440p and above to be able to see the logs.
 
@@ -20,7 +23,7 @@ All 4 financial research processes (can scale way up of course) were launched ex
 As you can see, the financial data was fetched almost at the same time. "Almost" because this data was retrieved on a different time depending on where it was located in my DBs.
 The Financial News data can't appear strictly at the same time for the 4 different tickers because the retrieval time itself varies depending on the complexity of the research that has to be conducted on the Web. 
 
-About the logs:
+**About the logs:** <br>
 They demonstrate that my application leverages parallelization using Celery's prefork pool, with multiple worker processes (ForkPoolWorker-X) running tasks concurrently, optimizing performance by executing tasks in parallel across different CPU cores.
 
 Contact: https://www.info-com.io/
