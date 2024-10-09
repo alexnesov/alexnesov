@@ -5,10 +5,10 @@ I'm Alex Nesovic. Worked first in technology consulting at Accenture Technology,
 # Technical Portfolio
 
   
-## Financial-portfolio.io (new version)
+## Financial-portfolio.io
 
 <a href="https://www.youtube.com/watch?v=HUfxmiZ7kGs">
-  <img src="https://github.com/alexnesov/alexnesov/blob/main/vanillaJS/Assets/fp_logo.svg" alt="financial-portfolio.io" width="200"/>
+  <img src="https://github.com/alexnesov/alexnesov/blob/main/vanillaJS/Assets/fp_logo.svg" alt="financial-portfolio.io" width="80"/>
 </a>
 
 **[Click here to see demo of parallelization integrated into financial-portfolio.io](https://www.youtube.com/watch?v=HUfxmiZ7kGs)**
