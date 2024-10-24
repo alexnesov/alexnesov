@@ -30,8 +30,6 @@ The Financial News data can't appear strictly at the same time for the 4 differe
 **About the logs:** <br>
 They demonstrate that my application leverages parallelization using Celery's prefork pool, with multiple worker processes (ForkPoolWorker-X) running tasks concurrently, optimizing performance by executing tasks in parallel across different CPU cores.
 
-Contact: https://www.info-com.io/
-
 
 
 ## Financial-portfolio.io (old version)
