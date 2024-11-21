@@ -73,7 +73,7 @@ Code (first phase): https://github.com/alexnesov/Financial-portfolio-Flask
 # My Skills
 
 ## Languages
-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (my strong point, using it daily in a professional (Accenture, Deloitte, Axa, Clearstream) and personnal context, since 4 years almost)
+- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> (my strong point, using it daily in a professional (Accenture, Deloitte, Axa, Clearstream) and personnal context, since 5 years)
 - <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 - <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> (basics)
 - <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> (basics)
