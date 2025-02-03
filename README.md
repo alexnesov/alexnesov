@@ -34,10 +34,6 @@ They demonstrate that my application leverages parallelization using Celery's pr
 
 ## Financial-portfolio.io (old version)
 
-"Official" version is currently off the grid but demo available here: http://financial-portfolio.eu-central-1.elasticbeanstalk.com/  (not optimized for mobile)
-
-This project gives an overview of my capabilities (full-stack, from server setup on the back end, though front-end design, to cloud deployment with Docker and routing for public availability).
-
 <b>Financial-portfolio.io (AWS cloud-native) is: </b>
 1. An autonomous market data feeder powered by Python, Jenkins/Cron and Linux. A stock market data platform accessible via a own developed front-end.
 2. An autonomous signals detector
